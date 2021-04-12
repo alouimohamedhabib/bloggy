@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@import './styles/variables.scss';
+@import './styles/menu.scss';
+@import './styles/home-component.scss';
+@import './styles/videoItem';
+
+.App {
+  //text-align: center;
+  font-family: $mainfont;
+  img {
+    height: auto;
+    width: auto;
+    max-width: 100%;
+  }
+  a {
+    color: $darkblue;
+  }
+}

@@ -1,0 +1,5 @@
+const UPDATE_PAGE_TITLE ="UPDATE_PAGE_TITLE";
+
+export {
+    UPDATE_PAGE_TITLE
+}

@@ -1,0 +1,45 @@
+.menu-component {
+  background: $darkblue;
+  margin: 1rem 0 2rem;
+  ul {
+    li {
+      margin: 5px;
+      font-size: 1rem;
+      a {
+        padding: 15px;
+        text-decoration: none;
+        font-weight: bold;
+        color: white;
+        display: block;
+        position: relative;
+        overflow: hidden;
+        &.current {
+          &:before {
+            content: "#";
+            display: inline-block;
+            bottom: 0;
+            margin-right: 2px;
+            color: $green;
+          }
+        }
+        &:after {
+          content: "";
+          background: $green;
+          height: 2px;
+          width: 100%;
+          position: absolute;
+          bottom: 0;
+          display: block;
+          z-index: 99;
+          transition: all 300ms;
+          opacity: 0;
+        }
+        &:hover {
+          &:after {
+            opacity: 1;
+          }
+        }
+      }
+    }
+  }
+}

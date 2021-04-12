@@ -5,7 +5,7 @@ export default function youtubeVideos(state = [], action) {
         case YOUTUBE_LOAD_LATEST_VIDEO_SUCCESS:
             return {
                 ...state,
-                youtubevideos: action.patyload
+                ...action.data
             }
         case YOUTUBE_LOAD_LATEST_VIDEO_LOAD:
             return state

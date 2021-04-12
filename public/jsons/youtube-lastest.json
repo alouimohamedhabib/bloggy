@@ -1,0 +1,284 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "BceqJheBlcj_VOuqKH05DccD_dg",
+  "nextPageToken": "CAgQAA",
+  "regionCode": "FR",
+  "pageInfo": {
+    "totalResults": 124,
+    "resultsPerPage": 8
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ALxu5ub10f-yYYOgUKkqJOoxgD4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xCi0yqvVPGE"
+      },
+      "snippet": {
+        "publishedAt": "2021-02-08T06:17:01Z",
+        "channelId": "UCKwx_ZOK2dGCpf1dLq7nmOQ",
+        "title": "Live coding Angular &amp; NgRX &amp; Prestashop",
+        "description": "Previous episode: https://youtu.be/LBxDzX6JGfM Join us on Discord: https://discord.gg/fcuyZdk My Online Courses Ultimate Theme Developer guide for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xCi0yqvVPGE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xCi0yqvVPGE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xCi0yqvVPGE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ALOUI Mohamed Habib",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-02-08T06:17:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "b0fFNIcO5JAtstj7GAovH3k-DNY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LBxDzX6JGfM"
+      },
+      "snippet": {
+        "publishedAt": "2021-02-07T07:48:40Z",
+        "channelId": "UCKwx_ZOK2dGCpf1dLq7nmOQ",
+        "title": "Live coding Angular &amp; NgRX &amp; Prestashop",
+        "description": "Join us on Discord: https://discord.gg/fcuyZdk My Online Courses Ultimate Theme Developer guide for Prestashop 1.7 ( 2020 ) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LBxDzX6JGfM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LBxDzX6JGfM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LBxDzX6JGfM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ALOUI Mohamed Habib",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-02-07T07:48:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jGKAjXkjGSzA3rzxU33Nm_xAO9s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fKo1rzFwEp4"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-24T06:35:12Z",
+        "channelId": "UCKwx_ZOK2dGCpf1dLq7nmOQ",
+        "title": "Live coding Pinterest button for Prestashop",
+        "description": "Join us on Discord: https://discord.gg/fcuyZdk My Online Courses Ultimate Theme Developer guide for Prestashop 1.7 ( 2020 ) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fKo1rzFwEp4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fKo1rzFwEp4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fKo1rzFwEp4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ALOUI Mohamed Habib",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-24T06:35:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ofepoq1BgVUNueZ9dIAll50hWbI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "d50ehYCWN6Y"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-24T04:22:00Z",
+        "channelId": "UCKwx_ZOK2dGCpf1dLq7nmOQ",
+        "title": "Recording courses Behind the scene 🎥",
+        "description": "Join us on Discord: https://discord.gg/fcuyZdk My Online Courses Ultimate Theme Developer guide for Prestashop 1.7 ( 2020 ) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d50ehYCWN6Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d50ehYCWN6Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d50ehYCWN6Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ALOUI Mohamed Habib",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-24T04:22:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4sf9aXdtMyWbTnKwAx3rj6IdwKg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zXp29KZHNGg"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-10T05:21:39Z",
+        "channelId": "UCKwx_ZOK2dGCpf1dLq7nmOQ",
+        "title": "Q&amp;A session, what is your problem?",
+        "description": "Join us on Discord: https://discord.gg/fcuyZdk My Online Courses Ultimate Theme Developer guide for Prestashop 1.7 ( 2020 ) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zXp29KZHNGg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zXp29KZHNGg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zXp29KZHNGg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ALOUI Mohamed Habib",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-10T05:21:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ob7nqJnTDtUxpOC2qWI1fROZLH0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PAFepmlLh0g"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-07T11:00:06Z",
+        "channelId": "UCKwx_ZOK2dGCpf1dLq7nmOQ",
+        "title": "Brief intro to Smarty variables in Prestashop",
+        "description": "Join us on Discord: https://discord.gg/fcuyZdk My Online Courses Ultimate Theme Developer guide for Prestashop 1.7 ( 2020 ) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PAFepmlLh0g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PAFepmlLh0g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PAFepmlLh0g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ALOUI Mohamed Habib",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-07T11:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "67eQEIyIWGozVc-q6cB7z6JNyso",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0zyDdgrLies"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-30T16:00:40Z",
+        "channelId": "UCKwx_ZOK2dGCpf1dLq7nmOQ",
+        "title": "A morning In The Life Of A Software Developer in Paris",
+        "description": "Join us on Discord: https://discord.gg/fcuyZdk My Online Courses Ultimate Theme Developer guide for Prestashop 1.7 ( 2020 ) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0zyDdgrLies/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0zyDdgrLies/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0zyDdgrLies/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ALOUI Mohamed Habib",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-30T16:00:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4WlGgUb6eaZoKVREzEChzoVS49c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "G5kk_eOpMHo"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-27T12:01:13Z",
+        "channelId": "UCKwx_ZOK2dGCpf1dLq7nmOQ",
+        "title": "Prestashop in Depth: Passing variable between templates",
+        "description": "Join us on Discord: https://discord.gg/fcuyZdk My Online Courses Ultimate Theme Developer guide for Prestashop 1.7 ( 2020 ) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G5kk_eOpMHo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G5kk_eOpMHo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G5kk_eOpMHo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ALOUI Mohamed Habib",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-27T12:01:13Z"
+      }
+    }
+  ]
+}
