@@ -20,9 +20,9 @@ function App() {
     return (
         <div className="App">
             <Router>
-                <Helmet>
+                {/* <Helmet>
                     <title>{title}</title>
-                </Helmet>
+                </Helmet> */}
                 <Header/>
                 <div className="container">
                     <Route exact path="/" title="Aloui " render={() => {

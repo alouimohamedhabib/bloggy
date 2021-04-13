@@ -1,0 +1,126 @@
+{
+    "count": 7,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "_class": "course",
+            "id": "x01VjAmzEf5234yPfdJeOA0tw==",
+            "title": "Themes developer guide for Prestashop 1.7",
+            "url": "https://www.udemy.com/course/create-prestashop-1-7-theme/?referralCode=D1373BC31ED961B27750",
+            "is_paid": true,
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": "x01eVyWWtAdBVKSCz7X_UdqTw=="
+                }
+            ],
+            "description": "<p>Learn how to create a cusotm theme from scratch and based on skeleton theme (Starter Theme)&nbsp;for the latest version of Prestashop 1.7 .&nbsp;</p><p>we will start with an introduction to Prestashop 1.7 what's new about it then we will learn how to create a very from scratch theme then we will create new theme based on the starter theme kit offered by Prestashop team&nbsp;.</p>",
+            "is_published": true,
+            "rating": 4.0041084,
+            "num_reviews": 117
+        },
+        {
+            "_class": "course",
+            "id": "x01_KWboWr8NSnHulHe9SX95w==",
+            "title": "Modules developer guide for Prestashop 1.7",
+            "url": "https://www.udemy.com/course/create-module-prestashop-1-7/?referralCode=F0E4C6C1597A420294D1",
+            "is_paid": true,
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": "x01eVyWWtAdBVKSCz7X_UdqTw=="
+                }
+            ],
+            "description": "<p>This course is created to teach you first of all what is a prestashop module,</p><p>Through the episodes of this series you will learn how to create a fully functional module for prestashop 1.7 with front and back page ( controllers ) and various hooks that will allow you to show content generated from the module in various place of the view.</p><p>Learn the new feature of prestashop 1.7 module such <strong><em>widget .</em></strong></p><p><em>Learn while creating</em><strong> </strong>is the way of this course.</p>",
+            "is_published": true,
+            "rating": 3.2666569,
+            "num_reviews": 80
+        },
+        {
+            "_class": "course",
+            "id": "x01HUUbE2Pz2OFc9YJedSwwnQ==",
+            "title": "My beginner guide to Symfony",
+            "url": "https://www.udemy.com/course/symfony-4-for-beginners/?referralCode=056944C9DAA7237BD816",
+            "is_paid": true,
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": "x01eVyWWtAdBVKSCz7X_UdqTw=="
+                }
+            ],
+            "description": "<p>This course will help you <strong>learn</strong> <strong>Symfony</strong> the powerful PHP framework that would let you create not only websites but great web applications, APIs or mobile backends.</p><p>Its latest version is the most powerful, yet simplest to use for developers. <strong>If you want to get started with Symfony, this is the best place you could get.</strong></p><p><strong>We'll go through each single task step by step</strong>; you will code along with me. I'd explain every detail of how things work, and how things should be done.</p><p>I'll even leave <strong>some scene with error uncut</strong> that you can see and experience a real-world coding example and how the journey is!</p><p>At the end of this course, you will complete a fully working, real world application. </p><p>The recommended development environment is Linux for the sake of speed and optimization for developer, but if you are on Windows or MacOs no worries. I won't be using any tool or package that could restrict you from taking this course if you are on another environment.</p><p><br></p><p>The course starts with introduction.</p><p>Then we'll move on and install the framework using official documentation and guides.</p><p>Next section is cantered around <strong>Controllers, Routes and Twig templating engine. </strong>You will learn how to create a backbone of your application and how to render HTML together with data using Twig. We will also see how we can install and manage assets, like CSS &amp; JavaScript, by installing <strong>Bootstrap</strong> using <strong>npm (You can use Yarn if you are comfortable with)</strong>.</p><p>After that, will touch databases and the excellent <strong>Doctrine ORM. </strong>You will learn how you can create simple PHP objects as a representation of a table rows. You will learn about database <strong>migrations</strong> - an easy way of managing your database schema changes. This section will also show you how to quickly <strong>fetch, modify and delete data</strong> from the database.</p><p>And we end up doing some <strong>Front-End</strong> work updating and customizing the User Interface.</p><p> Who this course is for:</p><ul><li><p>PHP developers that do not know any framework</p></li><li><p>Developers with some knowledge of other PHP frameworks</p></li><li><p>Developers that need and want to pick-up Symfony fast with straight to the point course</p></li></ul>",
+            "is_published": true,
+            "rating": 4.4914603,
+            "num_reviews": 34
+        },
+        {
+            "_class": "course",
+            "id": "x011r-fWBJrcNNbs5uy2KK49Q==",
+            "title": "Practical guide for creating Prestashop 1.7 module",
+            "url": "https://www.udemy.com/course/prestashop-module-comments/?referralCode=A5533572323AC64C57CB",
+            "is_paid": true,
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": "x01eVyWWtAdBVKSCz7X_UdqTw=="
+                }
+            ],
+            "description": "<p>This course is created to teach you step by step how to create a commenting system for Prestashop 1.7.</p><p><br></p><p>It has two parts front and back;</p><ul><li><p><strong>Front</strong></p><p><br></p><p>Store visitors will be able to express their ideas about the store products by leaving a comment<strong> </strong></p><p><br></p></li><li><p><strong>Back</strong></p></li></ul><p>Store ower / administrator will have the full control to remove any abuse comment or approve it, once approved the comment will show up in the product page</p>",
+            "is_published": true,
+            "rating": 3.7910628,
+            "num_reviews": 8
+        },
+        {
+            "_class": "course",
+            "id": "x01ganx76Wt_DKAXinSV5YzOg==",
+            "title": "Ultimate Theme Developer guide for Prestashop 1.7",
+            "url": "https://www.udemy.com/course/theme-developer-guide-prestashop/?referralCode=8FB84C07E0BCFE4A79A1",
+            "is_paid": true,
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": "x01eVyWWtAdBVKSCz7X_UdqTw=="
+                }
+            ],
+            "description": "<p>Since it's release in December 2018, Prestashop kept growing and improving deeply on core level.</p><p>One of the major improvement are manifested in the new THEME&nbsp;eco-system.</p><p>Themes in Prestashop 1.7 are a hole new level comparing to it's predecessor (1.6).</p><p>A lot of new features are introduced such as:</p><ul><li><p>The templates organisation</p></li><li><p>New smarty methods</p></li><li><p>the Widget API</p></li><li><p>etc...</p></li></ul><p>This&nbsp; course is build with simplicity in mind using the latest code updates from <strong>the official GitHub repository of Prestashop.</strong></p><p>By the end of this course i 100% guaranty that:</p><ol><li><p>You'll understand the mechanism behind the new Theme system</p></li><li><p>You'll be able to manipulate and debug themes</p></li><li><p>You'll have the knowledge to <strong>BUILD A VERY CUSTOMIZED THEME</strong></p></li></ol><p>The source code used during the course can be downloaded from the attachments.</p>",
+            "is_published": true,
+            "rating": 3.9554915,
+            "num_reviews": 31
+        },
+        {
+            "_class": "course",
+            "id": "x01RiccKt30Hy2oBezbZ7LZSg==",
+            "title": "Angular With practical examples",
+            "url": "https://www.udemy.com/course/draft/2318400/?referralCode=8DC67F79163B4B123B7A",
+            "is_paid": true,
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": "x01eVyWWtAdBVKSCz7X_UdqTw=="
+                }
+            ],
+            "description": "<p>The purpose of this course is to teach angular while creating apps .</p><p>I tried to stay away from<em> super clean videos</em> and i <strong>explicitly</strong> left some footage that i get in trouble with code and how i debug these issues because<strong> i believe it's beneficial for you to see real life coding experience situation</strong>.</p>",
+            "is_published": false,
+            "rating": 3.5033035,
+            "num_reviews": 18
+        },
+        {
+            "_class": "course",
+            "id": "x01WmreS4Ww8IfwZZD7boExEw==",
+            "title": "Prestashop 1.7 payment module",
+            "url": "https://www.udemy.com/course/draft/3770624/?referralCode=4FBBAF8B7DD755B74600",
+            "is_paid": false,
+            "visible_instructors": [
+                {
+                    "_class": "user",
+                    "id": "x01eVyWWtAdBVKSCz7X_UdqTw=="
+                }
+            ],
+            "description": "",
+            "is_published": false,
+            "rating": 0,
+            "num_reviews": 0
+        }
+    ]
+}

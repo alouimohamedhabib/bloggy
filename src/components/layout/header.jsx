@@ -1,6 +1,5 @@
 import {Link} from "react-router-dom";
 import MenuComponent from "./menu";
-import {Helmet} from "react-helmet";
 
 
 const Header = () => {
