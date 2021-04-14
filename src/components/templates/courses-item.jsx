@@ -14,7 +14,7 @@ const CourseItem = ({ courseItem }) => {
             <p dangerouslySetInnerHTML={createMarkup(courseItem.description)}></p>
             {courseItem.is_published && <a href={courseItem.url} target="_blank">
                 <EnrollBtn>
-                    Enroll <span>🚀</span>
+                    Enroll NOW <span>🚀</span>
                 </EnrollBtn>
             </a>
             }
