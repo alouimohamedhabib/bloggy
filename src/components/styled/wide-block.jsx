@@ -7,6 +7,7 @@ const WideBlock = styled.div`
     display: block ;
     box-shadow: 10px 15px 1px var(--darkblue); 
     position: relative; 
+    min-height: 300px;
     h2{
         font-weight: bold;
     }

@@ -4,13 +4,14 @@
 @import './styles/home-component.scss';
 @import './styles/videoItem.scss';
 @import './styles/course-item.scss';
+@import './styles/about.scss';
+
 
 .App {
   //text-align: center;
   font-family: $mainfont;
   img {
-    height: auto;
-    width: auto;
+     
     max-width: 100%;
   }
   a {

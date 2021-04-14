@@ -1,0 +1,29 @@
+.about-me {
+  .follow-me {
+    ul {
+        padding:0 ;
+
+      li {
+        display: inline-block;
+        margin: 5px;
+        padding: 0;
+        a {
+          text-decoration: none;
+          border-right: 1px dashed;
+          padding-right: 10px;
+          &:hover {
+              text-decoration: underline;
+          }
+        }
+        &:last-child{
+          a  {
+            border: none;
+          }
+        }
+      }
+    }
+    h2 {
+        font-size: 1.5rem ;
+    }
+  }
+}
