@@ -5,19 +5,19 @@ const MenuComponent = () => {
         <nav className="menu-component">
             <ul className="nav justify-content-center ">
                 <li className="nav-item" >
-                    <NavLink to="/courses" activeClassName="current" exact>Courses</NavLink>
+                    <NavLink exact to="/courses" activeClassName="current" exact>Courses</NavLink>
 
                 </li>
                 <li className="nav-item" >
-                    <NavLink to="/about" activeClassName="current" exact >About</NavLink>
+                    <NavLink exact to="/about" activeClassName="current" exact >About</NavLink>
 
                 </li>
                 <li className="nav-item" >
-                    <NavLink to="/posts" activeClassName="current"  exact>Posts</NavLink>
+                    <NavLink exact to="/posts" activeClassName="current"  exact>Posts</NavLink>
 
                 </li>
                 <li className="nav-item" >
-                    <NavLink to="/contact" activeClassName="current" exact >contacts</NavLink>
+                    <NavLink exact to="/contact" activeClassName="current" exact >contacts</NavLink>
                 </li>
             </ul>
         </nav>

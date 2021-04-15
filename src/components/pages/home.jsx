@@ -12,6 +12,9 @@ const Home = () => {
         <p>
             Father, web developer,<a href="https://youtube.com/alouimohamedhabib?sub_confirmation=1" target="_blank" rel="noreferrer">YouTuber</a> and <Link to="/courses">online instructor</Link>
         </p>
+        <p>
+            <img className="rounded-circle mt-4 " width="40%" src="https://lh3.googleusercontent.com/a-/AOh14GiSSmshIAD_h3_nf1NNnf1bCB2QL9RdjC0eIS_Q8S8=s600-k-no-rp-mo" alt=""/>
+        </p>
     </div>
 }
 
