@@ -23,7 +23,6 @@ const validateInput = (text) => {
         text.classList.add("has-error");
         return false
     }
-    console.log(">>>>>=")
     text.classList.remove("has-error");
     return true;
 }
